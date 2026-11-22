@@ -1,0 +1,3 @@
+Captura,V1_Vpp,VOUT_Vpp,Vmax_V,Vmin_V,Frecuencia_Hz,Periodo_ms,Escala_CH1_VOUT,Escala_CH2_V1,En_fase
+1,0.01,0.21,0.13,-0.08,60.24,16.60,100 mV/div,20 mV/div,Si
+2,0.01,0.22,0.13,-0.08,60.24,16.60,100 mV/div,20 mV/div,Si

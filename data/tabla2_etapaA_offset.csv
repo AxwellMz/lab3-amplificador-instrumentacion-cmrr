@@ -1,0 +1,2 @@
+Condicion,Instrumento,VOUT_DC_V,Criterio_guia_V,Cumple
+V1 = V2 = GND; fuente +-12 V,FNIRSI 2C23T (multimetro DC),-0.007,|VOUT| < 1,Si

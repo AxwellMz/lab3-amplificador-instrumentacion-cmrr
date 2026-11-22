@@ -1,0 +1,20 @@
+Magnitud,Valor,Unidad
+Offset VOUT (Etapa A),-0.007,V
+Gd1 = 1 + (R1a+R1b)/Rg,21.0,-
+p = R3a/R2a,1.0010215,-
+q = R3b/R2b,1.0,-
+Ad teorica (valores medidos),21.0053599,-
+Ad efectiva con V2 = 0,21.0056151,-
+Ad medida captura 1,21.0,-
+Ad medida captura 2,22.0,-
+Error Ad captura 1,0.0255167,%
+Error Ad captura 2,4.735173,%
+V1 estimado con divisor medido,10.333273,mVpp
+VOUT estimado Etapa B,0.2170568,Vpp
+Acm experimental (cota superior),0.0095238,-
+Acm teorica (desajuste resistivo),0.0005105,-
+VOUT teorico Etapa C,0.5359877,mVpp
+CMRR experimental (cota inferior),66.8681719,dB
+CMRR modelo resistivo,92.2872913,dB
+CMRR global estimado (TL084 tip. 86 dB),82.5654413,dB
+CMRR global estimado (TL084 min. 70 dB),69.3567496,dB

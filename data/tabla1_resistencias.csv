@@ -1,0 +1,10 @@
+Resistencia,Funcion,Nominal_ohm,Medido_ohm
+R1a,Realimentacion A1 (etapa de entrada),10000,9770
+R1b,Realimentacion A2 (etapa de entrada),10000,9770
+Rg,Resistencia de ganancia (entre IN- de A1 y A2),1000,977
+R2a,Restador A3 (salida A1 -> IN+ A3),10000,9790
+R2b,Restador A3 (salida A2 -> IN- A3),10000,9800
+R3a,Restador A3 (IN+ A3 -> GND),10000,9800
+R3b,Restador A3 (IN- A3 -> VOUT),10000,9800
+RD1,Divisor de entrada Etapa B (serie),10000,9840
+RD2,Divisor de entrada Etapa B (V1 -> GND),100,97.8
